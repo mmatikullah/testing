@@ -1,1 +1,2 @@
 This is the first line in filetwo
+Another line is added in filetwo
