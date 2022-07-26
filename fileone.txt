@@ -1,2 +1,3 @@
 This is the first line in fileone
 Another line is added in fileone
+something is added after clone in fileone
