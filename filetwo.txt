@@ -1,2 +1,3 @@
 This is the first line in filetwo
 Another line is added in filetwo
+something is added for cloning purpose
